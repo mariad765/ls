@@ -1,6 +1,5 @@
 # ls
 Implementation of ls in rust with ui
-Sure! Here's a detailed README for your project:
 
 # Rust Directory Listing
 
