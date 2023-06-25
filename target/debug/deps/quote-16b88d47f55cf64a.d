@@ -1,0 +1,13 @@
+/home/kali/RUST/ls/target/debug/deps/quote-16b88d47f55cf64a.rmeta: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ext.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/format.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ident_fragment.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/to_tokens.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/runtime.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/spanned.rs
+
+/home/kali/RUST/ls/target/debug/deps/libquote-16b88d47f55cf64a.rlib: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ext.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/format.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ident_fragment.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/to_tokens.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/runtime.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/spanned.rs
+
+/home/kali/RUST/ls/target/debug/deps/quote-16b88d47f55cf64a.d: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ext.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/format.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ident_fragment.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/to_tokens.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/runtime.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/spanned.rs
+
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/lib.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ext.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/format.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ident_fragment.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/to_tokens.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/runtime.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/spanned.rs:
