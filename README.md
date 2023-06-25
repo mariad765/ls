@@ -38,15 +38,8 @@ To compile and run this project, you need to have Rust installed on your system 
 
 Once the project is compiled and executed, it will display the contents of the specified directory. For each item, it will show the name, type (file, directory, or symlink), and permissions (read, write, and execute).
 
-Example output:
 
-```
-/home/user/documents
-<..>
-file1.txt - file - rwxr-xr-x
-directory1 - directory - rwxr-xr-x
-symlink1 - symlink - lrwxrwxrwx -> /path/to/target
-```
+![Example output:](https://drive.google.com/drive/my-drive)
 ## Acknowledgements
 
 This project was created as a learning exercise in Rust programming. It utilizes the Rust standard library and various Rust features to achieve its functionality.
