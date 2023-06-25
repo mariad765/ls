@@ -39,7 +39,7 @@ To compile and run this project, you need to have Rust installed on your system 
 Once the project is compiled and executed, it will display the contents of the specified directory. For each item, it will show the name, type (file, directory, or symlink), and permissions (read, write, and execute).
 
 
-![Output:](../ls1.png)
+![Output:](./ls1.png)
 ## Acknowledgements
 
 This project was created as a learning exercise in Rust programming. It utilizes the Rust standard library and various Rust features to achieve its functionality.
